@@ -30,7 +30,7 @@ const jorgex10 = {
         misc: ["Firebase", "socket.IO", "Heroku]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    funFact: "Obsession with clean code, a bad indentation and probably I will get sad by 30 min."
 };
 ```
 
