@@ -1,6 +1,6 @@
 <div style="display: flex;">
   <h2>I'm Jorge Calvo G.!</h2>
-  <img style="margin-left: 10px;;" src="https://www.springboard.com/blog/wp-content/uploads/2019/07/sb-blog-programming.png">
+  <img style="margin-left: 10px;;" src="https://www.springboard.com/blog/wp-content/uploads/2019/07/sb-blog-programming.png" height="50">
 </div>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
